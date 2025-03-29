@@ -30,6 +30,7 @@ def echo_message(message):
 def cube(message):
     prize=[]
     
+    
     for i in range (3):
 
     #     bot.reply_to(message, """\
